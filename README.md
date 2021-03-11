@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am left handed!
 -->
+
+[![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdarrengarcia)](https://github.com/anuraghazra/github-readme-stats
