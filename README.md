@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I am left handed!
 -->
 
-[![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdarrengarcia)
+![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdarrengarcia)
